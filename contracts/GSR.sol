@@ -1,8 +1,8 @@
-import "./GNSlib.sol";
+import "./GSRlib.sol";
 
 pragma solidity ^0.4.24;
 
-contract GNS is GNSlib {
+contract GSR is GSRlib {
 
     /*  STORAGE
     */

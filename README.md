@@ -1,5 +1,5 @@
 # eth-contract-fdns
-Ethereum implementation of GNS — addressation and identification service.
+Ethereum implementation of GSR — addressation and identification service.
 
 ### Requirements
 `truffle`

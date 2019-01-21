@@ -1,8 +1,8 @@
 {
-  "name": "geo_gns",
+  "name": "geo_gsr",
   "version": "0.1.0",
   "private": true,
-  "description": "Ethereum smart contracts for GEO gns register",
+  "description": "Ethereum smart contracts for GEO gsr register",
   "scripts": {
     "compile": "truffle compile",
     "test": "truffle test"
