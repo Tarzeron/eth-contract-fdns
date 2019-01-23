@@ -1,8 +1,8 @@
 {
-  "name": "geo_gns",
+  "name": "geo_gsr",
   "version": "0.1.0",
   "private": true,
-  "description": "Ethereum smart contracts for GEO gns register",
+  "description": "Ethereum smart contracts for GEO gsr register",
   "scripts": {
     "compile": "truffle compile",
     "test": "truffle test"
@@ -19,6 +19,7 @@
     "babel-preset-env": "^1.6.1",
     "babel-register": "^6.26.0",
     "lodash": "^4.17.11",
+    "truffle-hdwallet-provider": "^1.0.2",
     "web3": "^1.0.0-beta.34"
   }
 }
